@@ -1,1 +1,35 @@
+h2{
+  color: green;
+  text-decoration: underline;; 
+  -moz-text-decoration-color: green; 
+  text-decoration-color: green;
+  text-decoration-style: dotted;
 
+}
+.shadow{text-shadow:  2px 2px lightgreen;}
+div h2{text-decoration-style: wavy;}
+#One{
+  color: purple;
+  font-style: italic;
+}
+.First{
+  color: red;
+  font-weight: bold;
+  text-decoration: underline;
+  text-align: center;
+}  
+p{
+  color: orange;
+  font-family: 'Times New Roman', Times, serif;
+}
+div{
+  background-color: bisque;
+  color: brown;
+  border-style:solid;
+}
+div p{color: blue;}
+.class5{
+  color: teal;
+  font-family: 'Courier New', Courier, monospace;
+}
+#Six{text-align: right;}
